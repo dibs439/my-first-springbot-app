@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: my-first-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dibs4
+Implementation-Vendor-Id: springboot
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
