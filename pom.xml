@@ -7,6 +7,7 @@
   <groupId>springboot</groupId>
   <artifactId>my-first-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <name>my-first-application</name>
   <!-- FIXME change it to the project's website -->
